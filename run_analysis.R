@@ -2,7 +2,7 @@
 ### 1. Merges the training and the test sets to create one data set
 
 # Make sure to set your working directory to the folder "UCI HAR Datase" !!!
-setwd("U:/Eigene Dateien/Coursera/Data_Science/3_Getting_Cleaning_Data/Code_2/Course_Projekt/UCI HAR Dataset")
+
 
 #combine the train files:
     
